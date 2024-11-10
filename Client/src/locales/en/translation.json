@@ -1,0 +1,254 @@
+{
+  "home": {
+    "bannerText": "Just as the ocean holds an endless array of treasures within its depths, our site offers a bountiful assortment of goods, each waiting to be discovered and cherished.",
+    "btnText": "Explore Products"
+  },
+  "header": {
+    "title": "Annoy",
+    "searchPlaceholder": "Search...",
+    "language": {
+      "english": "English",
+      "french": "French"
+    },
+    "category": "Category",
+    "allCategory": "All Category",
+    "dashboard": "DASHBOARD",
+    "logout": "LOGOUT",
+    "signup": "Signup",
+    "signin": "Signin",
+    "becomeSeller": "Become a Seller"
+  },
+  "footer": {
+    "about": "about",
+    "contact": "contact",
+    "policy": "policy",
+    "copyRight": "© 2024 Copyright: Annoy Online Stores"
+  },
+  "product": {
+    "category": "All Category",
+    "seeMore": "see more",
+    "seeLess": "see less",
+    "colors": "Colours",
+    "brand": "Brand",
+    "filter": "filter by price",
+    "allProducts": "All products",
+    "found": "found",
+    "clear": "Clear Filters",
+    "total": "total products",
+    "grid": "Grid View",
+    "list": "List View",
+    "sort": "sort",
+    "details": "Details",
+    "addToCart": "Add To Cart",
+    "allList": "All Products List",
+    "err": "Something wrong",
+    "sp": "Single Page for Product",
+    "upddel": " Update or Delete Product"
+  },
+  "single": {
+    "productDetails": "Product Details",
+    "shipping": "shipping",
+    "deal": "Limited deal",
+    "M.R.P.": "M.R.P.",
+    "taxes": "Inclusive of all taxes",
+    "offers": "Offers",
+    "bankOffer": "Bank Offer",
+    "upto": "Upto",
+    "discount": "discount on selected credit cards",
+    "about": "About this item",
+    "similar": "Similar Product",
+    "color": "Colour",
+    "exchange": "10 days return and exchange",
+    "delivery": "free delivery",
+    "topBrand": "top brand",
+    "pod": "pay on delivery",
+    "secure": "secure transaction"
+  },
+  "cart": {
+    "hello": "Hello",
+    "you": "You Have",
+    "item": " items in your cart",
+    "cart": "Shopping Cart",
+    "price": "Price",
+    "qty": "Quantity",
+    "remove": "REMOVE",
+    "summary": "Cart Summary",
+    "tcp": " Total | Checkout | Payment",
+    "total": "Total",
+    "login": "Please Login to Checkout",
+    "ca": "Current Address",
+    "ua": "Update Address",
+    "payment": "Make Payment",
+    "signIn": "sign in to your account",
+    "empty": "Your shopping cart is waiting. Give it purpose - fill it with groceries, clothing, household supplies, electronics and more.  Continue shopping on the Annoy",
+    "learn": "learn about today's deals, or visit your Wish List.",
+    "home": "home"
+  },
+  "search": {
+    "placeholder": "search product"
+  },
+  "form": {
+    "submit": "Submit"
+  },
+  "dashboard": {
+    "createCategory": "Create Category",
+    "createProduct": "Create Product",
+    "manageCategory": "Manage Category",
+    "updateProduct": "Update product",
+    "deleteProduct": "Delete Product",
+    "updateProfile": "Update Profile",
+    "updateUser": "Update User",
+    "product": "Product",
+    "users": "Users",
+    "orders": "Orders",
+    "profile": "Profile",
+    "admin": "Admin Dashboard",
+    "user": "User Dashboard",
+    "seller": "SellerDashboard",
+    "allOrders": "All Orders",
+    "status": "Status",
+    "buyer": "Buyer",
+    "date": "Date",
+    "payment": "Payment",
+    "nop": "No Order Placed",
+    "name": "NAME",
+    "action": "ACTION",
+    "edit": "EDIT",
+    "delete": "DELETE",
+    "upload": "Upload",
+    "yes": "YES",
+    "no": "NO",
+    "allUsers": "All Users",
+    "userName": "User Name",
+    "email": "Email",
+    "contact": "Contact No",
+    "role": "Role",
+    "success": "Success",
+    "fail": "Fail"
+  },
+  "spinner": {
+    "redirect": "redirect to you in",
+    "sec": "seconds",
+    "loading": "Loading..."
+  },
+  "auth": {
+    "recoverPassword": "Recover Password",
+    "login": "OTP Login",
+    "sellerSignin": "Seller Signin",
+    "signin": "Signin",
+    "noAcc": "Don't Have Account ?",
+    "reg": " Register",
+    "regForm": "Seller Registration Form ",
+    "alreadyReg": "Already Registered",
+    "logForm": "Login Form",
+    "log": "Login",
+    "fp": " forgot-password",
+    "lop": "Login with OTP",
+    "regform": "Register Form"
+  },
+  "about": {
+    "title": "About Us",
+    "imageAlt": "About Us",
+    "introduction": "About Us:",
+    "welcomeMessage": "Welcome to Annoy Stores, your one-stop destination for quality products and exceptional shopping experiences. At Annoy Stores, we're dedicated to providing you with the best selection of products while prioritizing affordability and convenience.",
+    "ourStoryTitle": "Our Story",
+    "ourStory": "Founded by a group of friends passionate about product category or niche, Annoy Stores began as a small idea and has since grown into a thriving online marketplace. Inspired by our shared love for product category, we set out to create a platform where customers can discover unique products that enhance their lives.",
+    "missionTitle": "Our Mission",
+    "mission": "At Annoy Stores, our mission is simple: to offer a curated collection of product category that meets the diverse needs and preferences of our customers. We're committed to sourcing products from trusted suppliers, ensuring quality and authenticity with every purchase.",
+    "whyChooseUsTitle": "Why Choose Us?",
+    "whyChooseUs": "Wide Selection: Explore our extensive catalog featuring a diverse range of products. Quality Assurance: Shop with confidence knowing that each product is carefully selected for its quality and reliability. Exceptional Service: Our dedicated team is here to assist you every step of the way, from browsing to checkout and beyond. Fast Shipping: Enjoy quick and reliable shipping options to get your purchases delivered straight to your doorstep.",
+    "getInTouchTitle": "Get in Touch",
+    "getInTouchMessage": "Have questions or feedback? We'd love to hear from you! Contact our friendly customer support team for assistance, or connect with us on social media for the latest updates and exclusive offers. Thank you for choosing Annoy Stores. Happy shopping!"
+  },
+  "category": {
+    "pf": "Products Found",
+    "nop": "No Products"
+  },
+  "contact": {
+    "title": "Contact - Annoy",
+    "getInTouch": "Get in Touch",
+    "contactPrompt": "Any queries? Don't hesitate to contact us",
+    "chatToUs": "CHAT TO US",
+    "chatMessage": "Our friendly team is here to help you",
+    "email": "annoy@gmail.com",
+    "office": "OFFICE",
+    "officeMessage": "Come say hello at our office HQ",
+    "address": "Marathahalli, Bangalore",
+    "phone": "PHONE",
+    "phoneMessage": "Mon - Fri from 8 am to 5 pm",
+    "phoneNumber": "+1(500) 000-000"
+  },
+  "pageNotFound": {
+    "title": "Annoy",
+    "message": "Unfortunately, the page you are looking for has been moved or deleted",
+    "goHome": "Go to Home Page"
+  },
+  "policy": {
+    "title": "Policy - Annoy",
+    "heading": "Privacy policy",
+    "intro": "At Annoy, we are committed to protecting the privacy and security of our users' personal information. This Privacy Policy outlines the types of information we collect, how we use it, and the measures we take to safeguard it.",
+    "infoWeCollect": {
+      "heading": "Information We Collect:",
+      "personalInfo": "Personal Information: When you register an account, place an order, or engage with our services, we may collect personal information such as your name, address, email address, and phone number.",
+      "paymentInfo": "Payment Information: We collect payment details necessary to process your orders, including credit card numbers, billing addresses, and other payment-related information.",
+      "browsingInfo": "Browsing Information: We automatically collect certain information about your device and browsing activity on our website or app, including IP address, browser type, pages visited, and timestamps."
+    },
+    "howWeUseInfo": {
+      "heading": "How We Use Your Information:",
+      "orderProcessing": "Order Processing: We use your personal and payment information to process orders, fulfill requests, and provide customer support.",
+      "personalization": "Personalization: We may use your information to personalize your experience, recommend products, and tailor marketing communications based on your preferences.",
+      "analytics": "Analytics: We analyze user behavior and trends to improve our services, optimize website performance, and enhance user experience.",
+      "communication": "Communication: We may use your contact information to send you updates, promotional offers, and other relevant communications."
+    },
+    "dataSharing": "Data Sharing: We may share your information with trusted third-party service providers who assist us in operating our website, processing payments, delivering orders, and conducting marketing activities. We do not sell or rent your personal information to third parties for their own marketing purposes.",
+    "yourRights": "Your Rights: You have the right to access, update, or delete your personal information. You can manage your account settings or contact us directly to exercise these rights. You can choose to opt-out of receiving marketing communications from us at any time by following the unsubscribe instructions included in our emails or contacting our customer support team.",
+    "securityMeasures": "Security Measures: We employ industry-standard security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. These measures include encryption, firewalls, and access controls.",
+    "cookies": {
+      "heading": "Cookies and Tracking Technologies:",
+      "content": "We use cookies and similar technologies to track user activity, analyze trends, and enhance user experience. By using our website or app, you consent to the use of cookies as described in our Cookie Policy."
+    },
+    "changes": {
+      "heading": "Changes to This Privacy Policy:",
+      "content": "We reserve the right to update this Privacy Policy from time to time. Any changes will be posted on this page, and we will notify you of any material changes via email or through our website."
+    },
+    "contact": {
+      "heading": "Contact Us:",
+      "content": "If you have any questions or concerns about our Privacy Policy or how we handle your personal information, please contact us at friendsStores@gmail.com."
+    }
+  },
+  "searchPage": {
+    "heading": "Search Result",
+    "found": "Found: {{count}}",
+    "noData": {
+      "heading": "No Data",
+      "button": "Go Back to Home"
+    },
+    "for": "for result"
+  },
+  "seller": {
+    "title": "Sell Online-Annoy Store",
+    "createAccount": "Create Account",
+    "loginAccount": "Login Account",
+    "header": "Sell Online with Annoy",
+    "features": [
+      "1 crore + customers",
+      "7* days secure & regular payments",
+      "Low cost of doing business",
+      "One click Seller Support",
+      "Access to The Big Billion Days & more"
+    ]
+  },
+  "similarProduct": {
+    "noProducts": "No Products",
+    "name": "Name",
+    "brand": "Brand"
+  },
+  "toast": {
+    "itemAdd": "item Added To Cart",
+    "itemRemove": "Item removed from cart",
+    "orderSuccess": "Order Successful",
+    "req": "all fields are required",
+    "email": "Email is required",
+    "otp": "otp send to registered email"
+  }
+}

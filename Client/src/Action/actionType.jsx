@@ -1,0 +1,6 @@
+export let LOADING="LOADING";
+export let FETCH_DATA="FETCH_DATA";
+export let ERROR='ERROR';
+export let SINGLE_lOADING='SINGLE_LOADING';
+export let SINGLE_FETCH="SINGLE_FETCH";
+export let SINGLE_ERROR="SINGLE_ERROR";

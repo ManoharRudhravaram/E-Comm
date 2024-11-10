@@ -1,0 +1,254 @@
+{
+  "home": {
+    "bannerText": "Tout comme l'océan contient une infinité de trésors dans ses profondeurs, notre site offre une abondance de produits, chacun attendant d'être découvert et apprécié.",
+    "btnText": "Explorer les produits"
+  },
+  "header": {
+    "title": "Annoy",
+    "searchPlaceholder": "Recherche...",
+    "language": {
+      "english": "Anglais",
+      "french": "Français"
+    },
+    "category": "Catégorie",
+    "allCategory": "Toutes les catégories",
+    "dashboard": "TABLEAU DE BORD",
+    "logout": "SE DÉCONNECTER",
+    "signup": "Inscription",
+    "signin": "Connexion",
+    "becomeSeller": "Devenir Vendeur"
+  },
+  "footer": {
+    "about": "à propos",
+    "contact": "contact",
+    "policy": "politique",
+    "copyRight": "© 2024 Droits d'auteur : Annoy Online Stores"
+  },
+  "product": {
+    "category": "Toutes les catégories",
+    "seeMore": "voir plus",
+    "seeLess": "voir moins",
+    "colors": "Couleurs",
+    "brand": "Marque",
+    "filter": "filtrer par prix",
+    "allProducts": "Tous les produits",
+    "found": "trouvé",
+    "clear": "Effacer les filtres",
+    "total": "produits totaux",
+    "grid": "Vue en grille",
+    "list": "Vue en liste",
+    "sort": "trier",
+    "details": "Détails",
+    "addToCart": "Ajouter au panier",
+    "allList": "Liste de tous les produits",
+    "err": "Quelque chose a mal tourné",
+    "sp": "Page unique pour le produit",
+    "upddel": "Mettre à jour ou supprimer le produit"
+  },
+  "single": {
+    "productDetails": "Détails du produit",
+    "shipping": "livraison",
+    "deal": "Offre limitée",
+    "M.R.P.": "P.R.M.",
+    "taxes": "Taxes incluses",
+    "offers": "Offres",
+    "bankOffer": "Offre bancaire",
+    "upto": "Jusqu'à",
+    "discount": "réduction sur les cartes de crédit sélectionnées",
+    "about": "À propos de cet article",
+    "similar": "Produit similaire",
+    "color": "Couleur",
+    "exchange": "Retour et échange sous 10 jours",
+    "delivery": "livraison gratuite",
+    "topBrand": "meilleure marque",
+    "pod": "payer à la livraison",
+    "secure": "transaction sécurisée"
+  },
+  "cart": {
+    "hello": "Bonjour",
+    "you": "Vous avez",
+    "item": " articles dans votre panier",
+    "cart": "Panier",
+    "price": "Prix",
+    "qty": "Quantité",
+    "remove": "SUPPRIMER",
+    "summary": "Résumé du panier",
+    "tcp": " Total | Passer à la caisse | Paiement",
+    "total": "Total",
+    "login": "Veuillez vous connecter pour passer à la caisse",
+    "ca": "Adresse actuelle",
+    "ua": "Mettre à jour l'adresse",
+    "payment": "Effectuer le paiement",
+    "signIn": "Connectez-vous à votre compte",
+    "empty": "Votre panier attend. Donnez-lui un but - remplissez-le de produits d'épicerie, de vêtements, de fournitures ménagères, d'électronique et bien plus encore. Continuez vos achats sur Annoy",
+    "learn": "découvrez les offres du jour ou visitez votre liste de souhaits.",
+    "home": "accueil"
+  },
+  "search": {
+    "placeholder": "rechercher un produit"
+  },
+  "form": {
+    "submit": "Soumettre"
+  },
+  "dashboard": {
+    "createCategory": "Créer une catégorie",
+    "createProduct": "Créer un produit",
+    "manageCategory": "Gérer la catégorie",
+    "updateProduct": "Mettre à jour le produit",
+    "deleteProduct": "Supprimer le produit",
+    "updateProfile": "Mettre à jour le profil",
+    "updateUser": "Mettre à jour l'utilisateur",
+    "product": "Produit",
+    "users": "Utilisateurs",
+    "orders": "Commandes",
+    "profile": "Profil",
+    "admin": "Tableau de bord administrateur",
+    "user": "Tableau de bord utilisateur",
+    "seller": "Tableau de bord vendeur",
+    "allOrders": "Toutes les commandes",
+    "status": "Statut",
+    "buyer": "Acheteur",
+    "date": "Date",
+    "payment": "Paiement",
+    "nop": "Aucune commande passée",
+    "name": "NOM",
+    "action": "ACTION",
+    "edit": "MODIFIER",
+    "delete": "SUPPRIMER",
+    "upload": "Télécharger",
+    "yes": "OUI",
+    "no": "NON",
+    "allUsers": "Tous les utilisateurs",
+    "userName": "Nom d'utilisateur",
+    "email": "Email",
+    "contact": "Numéro de contact",
+    "role": "Rôle",
+    "success": "Succès",
+    "fail": "Échec"
+  },
+  "spinner": {
+    "redirect": "vous redirige dans",
+    "sec": "secondes",
+    "loading": "Chargement..."
+  },
+  "auth": {
+    "recoverPassword": "Récupérer le mot de passe",
+    "login": "Connexion par OTP",
+    "sellerSignin": "Connexion vendeur",
+    "signin": "Connexion",
+    "noAcc": "Vous n'avez pas de compte ?",
+    "reg": " S'inscrire",
+    "regForm": "Formulaire d'inscription vendeur",
+    "alreadyReg": "Déjà inscrit",
+    "logForm": "Formulaire de connexion",
+    "log": "Connexion",
+    "fp": " mot de passe oublié",
+    "lop": "Se connecter avec OTP",
+    "regform": "Formulaire d'inscription"
+  },
+  "about": {
+    "title": "À propos de nous",
+    "imageAlt": "À propos de nous",
+    "introduction": "À propos de nous :",
+    "welcomeMessage": "Bienvenue chez Annoy Stores, votre destination unique pour des produits de qualité et des expériences d'achat exceptionnelles. Chez Annoy Stores, nous sommes dévoués à vous offrir la meilleure sélection de produits tout en privilégiant l'accessibilité et la commodité.",
+    "ourStoryTitle": "Notre histoire",
+    "ourStory": "Fondé par un groupe d'amis passionnés par une catégorie de produits ou un créneau, Annoy Stores a commencé comme une petite idée et est depuis devenu un marché en ligne florissant. Inspirés par notre amour commun pour une catégorie de produits, nous avons créé une plateforme où les clients peuvent découvrir des produits uniques qui améliorent leur vie.",
+    "missionTitle": "Notre mission",
+    "mission": "Chez Annoy Stores, notre mission est simple : offrir une collection soignée de produits qui répondent aux besoins et aux préférences diversifiés de nos clients. Nous nous engageons à nous approvisionner auprès de fournisseurs de confiance, en garantissant la qualité et l'authenticité de chaque achat.",
+    "whyChooseUsTitle": "Pourquoi nous choisir ?",
+    "whyChooseUs": "Large sélection : Explorez notre catalogue étendu présentant une gamme diversifiée de produits. Assurance qualité : Achetez en toute confiance, sachant que chaque produit est soigneusement sélectionné pour sa qualité et sa fiabilité. Service exceptionnel : Notre équipe dévouée est là pour vous assister à chaque étape, de la navigation à la caisse et au-delà. Livraison rapide : Profitez d'options de livraison rapides et fiables pour recevoir vos achats directement à votre porte.",
+    "getInTouchTitle": "Contactez-nous",
+    "getInTouchMessage": "Vous avez des questions ou des commentaires ? Nous serions ravis de vous entendre ! Contactez notre équipe de support client amicale pour obtenir de l'aide ou suivez-nous sur les réseaux sociaux pour les dernières mises à jour et offres exclusives. Merci d'avoir choisi Annoy Stores. Bon shopping !"
+  },
+  "category": {
+    "pf": "Produits trouvés",
+    "nop": "Aucun produit"
+  },
+  "contact": {
+    "title": "Contact - Annoy",
+    "getInTouch": "Contactez-nous",
+    "contactPrompt": "Des questions ? N'hésitez pas à nous contacter",
+    "chatToUs": "DISCUTEZ AVEC NOUS",
+    "chatMessage": "Notre équipe sympathique est là pour vous aider",
+    "email": "annoy@gmail.com",
+    "office": "BUREAU",
+    "officeMessage": "Venez nous dire bonjour à notre siège",
+    "address": "Marathahalli, Bangalore",
+    "phone": "TÉLÉPHONE",
+    "phoneMessage": "Lun - Ven de 8h à 17h",
+    "phoneNumber": "+1(500) 000-000"
+  },
+  "pageNotFound": {
+    "title": "Annoy",
+    "message": "Malheureusement, la page que vous recherchez a été déplacée ou supprimée",
+    "goHome": "Retour à la page d'accueil"
+  },
+  "policy": {
+    "title": "Politique - Annoy",
+    "heading": "Politique de confidentialité",
+    "intro": "Chez Annoy, nous nous engageons à protéger la vie privée et la sécurité des informations personnelles de nos utilisateurs. Cette politique de confidentialité décrit les types d'informations que nous collectons, comment nous les utilisons et les mesures que nous prenons pour les protéger.",
+    "infoWeCollect": {
+      "heading": "Informations que nous collectons :",
+      "personalInfo": "Informations personnelles : Lorsque vous créez un compte, passez une commande ou interagissez avec nos services, nous pouvons collecter des informations personnelles telles que votre nom, adresse, adresse email et numéro de téléphone.",
+      "paymentInfo": "Informations de paiement : Nous collectons les informations de paiement nécessaires pour traiter vos commandes, y compris les numéros de carte de crédit, les adresses de facturation et autres informations liées au paiement.",
+      "browsingInfo": "Informations de navigation : Nous collectons automatiquement certaines informations concernant votre appareil et votre activité de navigation sur notre site ou application, y compris l'adresse IP, le type de navigateur, les pages visitées et les horodatages."
+    },
+    "howWeUseInfo": {
+      "heading": "Comment nous utilisons vos informations :",
+      "orderProcessing": "Traitement des commandes : Nous utilisons vos informations personnelles et de paiement pour traiter les commandes, répondre aux demandes et fournir un support client.",
+      "personalization": "Personnalisation : Nous pouvons utiliser vos informations pour personnaliser votre expérience, recommander des produits et adapter les communications marketing en fonction de vos préférences.",
+      "analytics": "Analyses : Nous analysons le comportement des utilisateurs et les tendances pour améliorer nos services, optimiser les performances du site et améliorer l'expérience utilisateur.",
+      "communication": "Communication : Nous pouvons utiliser vos informations de contact pour vous envoyer des mises à jour, des offres promotionnelles et d'autres communications pertinentes."
+    },
+    "dataSharing": "Partage de données : Nous pouvons partager vos informations avec des prestataires de services tiers de confiance qui nous aident à exploiter notre site, traiter les paiements, livrer les commandes et mener des activités marketing. Nous ne vendons ni ne louons vos informations personnelles à des tiers pour leurs propres activités marketing.",
+    "yourRights": "Vos droits : Vous avez le droit d'accéder à vos informations personnelles, de les mettre à jour ou de les supprimer. Vous pouvez gérer les paramètres de votre compte ou nous contacter directement pour exercer ces droits. Vous pouvez choisir de ne plus recevoir de communications marketing de notre part à tout moment en suivant les instructions de désabonnement incluses dans nos emails ou en contactant notre équipe de support client.",
+    "securityMeasures": "Mesures de sécurité : Nous employons des mesures de sécurité conformes aux normes de l'industrie pour protéger vos informations personnelles contre tout accès non autorisé, divulgation, modification ou destruction. Ces mesures incluent le cryptage, les pare-feux et les contrôles d'accès.",
+    "cookies": {
+      "heading": "Cookies et technologies de suivi :",
+      "content": "Nous utilisons des cookies et des technologies similaires pour suivre l'activité des utilisateurs, analyser les tendances et améliorer l'expérience utilisateur. En utilisant notre site ou notre application, vous consentez à l'utilisation de cookies comme décrit dans notre Politique de cookies."
+    },
+    "changes": {
+      "heading": "Modifications de cette politique de confidentialité :",
+      "content": "Nous nous réservons le droit de mettre à jour cette politique de confidentialité de temps à autre. Toute modification sera publiée sur cette page et nous vous informerons de tout changement important par email ou via notre site."
+    },
+    "contact": {
+      "heading": "Nous contacter :",
+      "content": "Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité ou la manière dont nous gérons vos informations personnelles, veuillez nous contacter à l'adresse friendsStores@gmail.com."
+    }
+  },
+  "searchPage": {
+    "heading": "Résultat de la recherche",
+    "found": "Trouvé : {{count}}",
+    "noData": {
+      "heading": "Aucune donnée",
+      "button": "Retourner à l'accueil"
+    },
+    "for": "pour résultat"
+  },
+  "seller": {
+    "title": "Vendre en ligne - Annoy Store",
+    "createAccount": "Créer un compte",
+    "loginAccount": "Se connecter",
+    "header": "Vendre en ligne avec Annoy",
+    "features": [
+      "Plus de 1 crore de clients",
+      "Paiements sécurisés et réguliers 7* jours",
+      "Coût de fonctionnement réduit",
+      "Support vendeur en un clic",
+      "Accès à The Big Billion Days et plus encore"
+    ]
+  },
+  "similarProduct": {
+    "noProducts": "Aucun produit",
+    "name": "Nom",
+    "brand": "Marque"
+  },
+  "toast": {
+    "itemAdd": "Article ajouté au panier",
+    "itemRemove": "Article retiré du panier",
+    "orderSuccess": "Commande réussie",
+    "req": "Tous les champs sont obligatoires",
+    "email": "L'email est requis",
+    "otp": "OTP envoyé à l'adresse email enregistrée"
+  }
+}
